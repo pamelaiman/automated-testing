@@ -18,4 +18,4 @@ jobs:
     - name: Check quality with ESLint
       run: yarn lint
     - name: Jest tests
-      run: test
+      run: yarn test
